@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Inreractive Simulation", "Inreractive Simulation\Inreractive Simulation.vcxproj", "{36F55816-E6ED-4594-8910-C1E60C3F81C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36F55816-E6ED-4594-8910-C1E60C3F81C8}.Debug|x64.ActiveCfg = Debug|x64
+		{36F55816-E6ED-4594-8910-C1E60C3F81C8}.Debug|x64.Build.0 = Debug|x64
+		{36F55816-E6ED-4594-8910-C1E60C3F81C8}.Debug|x86.ActiveCfg = Debug|Win32
+		{36F55816-E6ED-4594-8910-C1E60C3F81C8}.Debug|x86.Build.0 = Debug|Win32
+		{36F55816-E6ED-4594-8910-C1E60C3F81C8}.Release|x64.ActiveCfg = Release|x64
+		{36F55816-E6ED-4594-8910-C1E60C3F81C8}.Release|x64.Build.0 = Release|x64
+		{36F55816-E6ED-4594-8910-C1E60C3F81C8}.Release|x86.ActiveCfg = Release|Win32
+		{36F55816-E6ED-4594-8910-C1E60C3F81C8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69EE9D94-540A-47E9-BE74-C6FD55F0C2BD}
+	EndGlobalSection
+EndGlobal
